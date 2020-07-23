@@ -1,4 +1,4 @@
-name := "reflectiveExpressions"
+name := "expressions"
 
 version := "0.1"
 
