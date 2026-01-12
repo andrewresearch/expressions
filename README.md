@@ -1,3 +1,5 @@
+#### NOTE: This library is no longer maintained
+
 # expressions
 
 Expressions library derived from but independent of TAP
